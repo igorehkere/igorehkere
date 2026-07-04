@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Igor</h1>
-<h3>Fullstack JavaScript Developer</h3>
-
-I'm a JavaScript developer passionate about building modern web applications.
+<h3>I'm a Fullstack JavaScript Developer</h3>
 
 Currently, I'm focused on creating scalable applications using React, TypeScript and Node.js while continuously improving my backend and architecture skills.
 
