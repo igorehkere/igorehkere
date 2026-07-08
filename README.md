@@ -1,7 +1,5 @@
-<h1>Hi 👋, I'm Igor</h1>
+<h1>Hi, I'm Igor</h1>
 <h3>I'm a Fullstack JavaScript Developer</h3>
-
-Currently, I'm focused on creating scalable applications using React, TypeScript and Node.js while continuously improving my backend and architecture skills.
 
 ---
 
@@ -13,10 +11,6 @@ Currently, I'm focused on creating scalable applications using React, TypeScript
 - 🏗️ Interested in scalable architecture and clean code
 - 📚 Constantly learning new technologies
 - 🇷🇺 Based in Saint Petersburg
-
-## My statistic
-
-![GitHub Streak](https://streak-stats.demolab.com?user=igorehkere&theme=tokyonight)
 
 ---
 
